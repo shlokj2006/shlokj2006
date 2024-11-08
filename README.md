@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shlokj2006
 - 👀 I’m interested in Ai , machine learning and robotics
 - 🌱 I’m currently Cse student
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on insta - shlok_j2006 or linkdin
+- 💞️ I’m looking to collaborate on web devlopment projects .
+- 📫 How to reach me on insta - shlok_j2006 or linkdin www.linkedin.com/in/shlok-jaiswal-a0b151309
 - 😄 Pronouns: He/him
 
 <!---
