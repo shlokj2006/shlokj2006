@@ -64,9 +64,9 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shlok-jai
 ---
 
 <!--
-If you want to add sections for open-source contributions, testimonials, or future goals, let me know!
--->
+If you'd like to add sections for open-source contributions, testimonials, or future goals, please let me know.
+
 
 shlokj2006/shlokj2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to view your changes.
 --->
